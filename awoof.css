@@ -1,0 +1,747 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-first-section{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.launch{
+    font-size: 30px;
+}
+
+.first-dot{
+    width: 4px;
+    height: 4px;
+    background-color: blue;
+    margin-top: 23px;
+}
+
+.header-first-div{
+    display: flex;
+    gap: 40px;
+    font-size: larger;
+    margin-top: 10px;
+    margin-left: 80px;
+
+}
+
+.main-summary{
+    list-style-type: square;
+}
+
+.button-div{
+    display: flex;
+    gap: 10px;
+    margin-left: 300px;
+    margin-top: 5px;
+    height: 40px;
+}
+
+button{
+    border-radius: 15px 15px 15px 15px;
+    
+}
+
+.sign{
+    background-color: white;
+    color: black;
+    width: 100px;
+    
+}
+
+.register{
+background-color: blue;
+color: white;
+width: 130px;
+border: none;
+}
+
+.see-dots{
+    width: 5px;
+    height: 5px;
+    background-color: grey;
+    opacity: 20%;
+    margin-top: 10px;
+   
+}
+
+.doting{
+    display: flex;
+    gap: 20px;
+    /* margin-right: 100px; */
+}
+.wrap-dot{
+    margin-left: 1280px;
+    margin-top: 50px;
+}
+
+.promotion{
+ font-size: 90px;
+ max-width: 500px;
+}
+
+.another{
+  font-size: 15px;
+  max-width: 450px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 30px;
+  color: grey;
+  word-spacing: 3px;
+}
+
+.feature{
+    margin-top: 20px;
+    width: 140px;
+    height: 50px;
+    margin-left: 100px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 40px;
+}
+
+.pricing{
+    margin-top: 20px;
+    width: 120px;
+    height: 50px;
+    margin-left: 10px;
+    color: blue;
+    background-color: white;
+    border-radius: 40px;
+}
+
+.promoder{
+    margin-top: -300px;
+    margin-left: 100px;
+}
+
+.colorlib-first-span{
+    background-color: grey;
+    color: blue;
+}
+
+.flyyn{
+    width: 700px;
+    margin-top: -530px;
+    margin-left: 500px;
+}
+
+.digital-section{
+    display: flex;
+    background-color: white;
+}
+
+.dashboard-image{
+    width: 800px;
+    margin-top: 250px;
+}
+
+.digital-div{
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+}
+
+.digi{
+    color: blue;
+    margin-left: 100px;
+}
+
+.selling-digital{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 40px;
+    max-width: 300px;
+    margin-bottom: 30px;
+}
+
+.far-awayy{
+    max-width: 380px;
+    line-height: 30px;
+    margin-right: 100px;
+    color: grey;
+    margin-left: 100px;
+}
+
+.checkbox-side{
+    display: flex;
+    flex-direction: column;
+    margin-top: -280px;
+    color: grey;
+    margin-left: 80px;
+    font-size: 13px;
+
+}
+
+.first-checkbox{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.second-checkbox{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+.second-dashboard-image{
+    width: 750px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+
+}
+
+.lonci{
+    display: flex;
+    background-color: whitesmoke;
+    margin-top: 400px;
+}
+
+.person-one{
+    width: 50px;
+    height: 50px;
+}
+
+.person-two{
+    width: 50px;
+    height: 50px;
+}
+
+.person-three{
+    width: 50px;
+    height: 50px;
+}
+
+.person-four{
+    width: 50px;
+    height: 50px;
+}
+
+.grow{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.seeam{
+    margin-left: 50px;
+}
+
+.seeam>h2{
+    margin-bottom: 20px
+}
+
+.seeam>h3{
+    color: grey;
+    max-width: 500px;
+}
+
+.lucky{
+    display: flex;
+}
+
+.cibili{
+     margin-top: 200px; 
+}
+
+.people-one{
+    width: 50px;
+}
+
+.booting{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+.booting>h3{
+ max-width: 400px;
+ color: grey;
+ line-height: 30px;
+ margin-top: 10px;
+}
+
+.booting>h2{
+    margin-top: 10px;
+}
+
+.morning{
+    display: flex;
+}
+
+.thanks{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 200px;
+}
+
+.pricen-side{
+    background-color: whitesmoke;
+    margin-top: 300px;
+}
+
+.pricen-side>h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.pricen-side>h3{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+
+.first-box{
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    border-radius: 30px;
+    margin-top: 70px;
+    
+}
+
+.first-box>h2{
+    font-size: 35px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.first-box>h3{
+    color: blue;
+    font-size: 35px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.first-box>h4{
+    font-size: 15px;
+    padding-top: 30px;
+    line-height: 30px;
+    margin-left: 50px;
+}
+
+.ffirst-box{
+    margin-left: 0px;
+    margin-right: -300px;
+    margin-bottom: 100px;
+}
+
+.starten{
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    color: blue;
+    margin-top: 30px;
+}
+
+.starte{
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-top: 30px;
+}
+
+.flexing{
+    background-color: white;
+    display: flex;
+    
+}
+
+.imagination{
+    width: 50px;
+    margin-bottom: 50px;
+
+}
+.bobo{
+    background-color: white;
+    text-align: center;
+}
+
+.pincing-{
+    margin-bottom: 50px;
+}
+
+.one-flexing{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.two-flexing{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-top: 30px;
+    
+    
+}
+
+.gin>a{
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.gin>h4{
+    max-width: 500px;
+    margin-top: 10px;
+    color: grey;
+}
+
+gin>h1{
+    margin-left: 20px;
+}
+
+.gin{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.pincing-one{
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.yoom{
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 250px;
+}
+
+.one-yoom{
+    margin-left: 50px;
+}
+
+.mo{
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    margin-top: 18px;
+}
+
+.moi{
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    margin-left: 100px;
+    margin-top: -28px;
+    margin-left: 50px;
+}
+
+.two-yoom{
+    max-width: 350px;
+    margin-top: 30px;
+
+}
+
+.bookin{
+    background-color: rgb(127, 155, 155);
+    opacity: 50px;
+}
+
+.ttwo-yoom{
+    display: flex;
+    margin-top: 50px;
+}
+
+.jan{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.jan>h6{
+    color: gray;
+}
+
+.ttwo-yoom>h5{
+    font-size: 13px;
+    margin-right:20px ;
+}
+
+.james{
+    width: 80px;
+    border-radius: 50%;
+}
+
+.one-yoom>h3{
+    color: blue;
+    font-size: 15px;
+}
+
+.one-yoom>h1{
+    font-size: 40px;
+    max-width: 300px;
+}
+
+.templat{
+    background-color: white;
+    display: flex;
+    padding-top: 200px;
+}
+
+.templating{
+    width: 800px;
+    margin-left: 50px;
+    margin-left: 30px;
+}
+
+.abot>h2{
+    font-size: 15px;
+    color: blue;
+    font-weight: 100;
+}
+
+.pan{
+    background-color: rgb(233, 233, 238);
+}
+
+.abot>li{
+    line-height: 30px;
+    color: grey;
+}
+
+.behin{
+    max-width: 400px;
+    line-height: 30px;
+    color: grey;
+    font-size: 20px;
+}
+
+.behine{
+    max-width: 400px;
+    font-size: 20px;
+    line-height: 30px;
+    color: grey;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.mendy{
+    display: flex;
+    gap: 100px;
+    margin-top: 30px;
+}
+
+.abot>h1{
+    font-size: 40px;
+    font-weight: 200px;
+    margin-bottom: 20px;
+}
+
+.milli{
+    font-size: 40px;
+}
+
+.ers{
+    font-size: 13px;
+    color: grey;
+}
+
+.boxer{
+    background-color: rgb(240, 234, 234);
+    width: 400px;
+    /* height: 300px; */
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 40px;
+}
+
+.rob{
+    margin-top: 10px;
+}
+
+.rob>h6{
+    padding-top: 15px;
+    color: grey;
+    font-size: 15px;
+    padding-left: 10px;
+
+
+}
+
+.rob>h5{
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.boxr{
+    margin-left: 10px;
+    display: flex;
+}
+
+.contry{
+    border-radius: 50%;
+    width: 70px;
+    margin: 20px;
+}
+
+.word-mount>h4{
+    color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.word-mount>h2{
+    font-weight: 100;
+    margin-top: 10px;
+    font-size: 30px;
+    max-width: 300px;
+    padding-bottom: 50px;
+}
+
+.word-mount{
+    margin-left: 20px;
+}
+
+.mountains{
+    width: 70px;
+    border-radius: 50%;
+}
+
+.ned{
+    text-align: center;
+  position: relative;
+  top: -200px;
+  right:-650px;
+}
+
+.hmm{
+    background-color: grey;
+}
+
+.serious{
+    width: 200px;
+    height: 100px;
+    background-color: grey;
+}
+
+.count{
+    display: flex;
+}
+
+.ned>h1{
+    font-size: 50px;
+}
+
+.ned>h3{
+    color: grey;
+    margin-top: 30px;
+}
+
+.your-doins{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 300px;
+    margin-right: 200px;
+}
+
+
+.forms{
+    background-color: white;
+    margin-top: 50px;
+}
+
+.light{
+    font-size: 40px;
+    text-align: center;
+}
+
+.hold{
+    margin-top: 10px;
+    text-align: center;
+    color: grey;
+}
+
+form{
+    margin-top: 50px;
+}
+
+form>input{
+         width: 400px;
+         height: 50px;
+         
+}
+
+.moon{
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+
+.simi{
+    margin-left: 15px;
+}
+
+.samilar{
+    margin-left: 45px;
+}
+
+.indo{
+    background-color: white;
+    margin-top: 80px;
+}
+
+.libo{
+    background-color: white;
+}
+
+.sini{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    width: 180px;
+    height: 50px;
+    background-color: rgb(40, 40, 177);
+    color: white;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.ionic{
+    display: flex;
+}
+
+.dey{
+    width: 50px;
+}
+
+.dey-play>h3{
+    margin-top: 10px;
+}
+
+.play{
+    width: 50px;
+    margin-top: 20px;
+}
+
+.dey-play{
+    display: flex;
+
+}
